@@ -2,5 +2,5 @@ __pycache__
 *.log
 .directory
 SECRET_KEY.txt
-.idea
 venv_new
+/.idea/
