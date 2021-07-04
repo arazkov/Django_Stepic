@@ -4,3 +4,5 @@ __pycache__
 SECRET_KEY.txt
 venv_new
 /.idea/
+/blog/myblog/__pycache__
+/blog/blog/__pycache__
